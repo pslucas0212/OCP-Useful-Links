@@ -30,6 +30,11 @@
 - [Visual Guide to Single Node OpenShift Deploy](https://cloud.redhat.com/blog/visual-guide-to-single-node-openshift-deploy)
 - [4 reasons you'll love using Red Hat OpenShift Data Science](https://developers.redhat.com/blog/2021/04/27/4-reasons-youll-love-using-red-hat-openshift-data-science) - Published April 27, 2021
 
+### OpenShift Virtualization (VM support)
+- [Virtualization with Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization)
+- [OpenShift Virtualization - 4.10](https://docs.openshift.com/container-platform/4.10/virt/about-virt.html)
+- [Certified Guest Operating Systems in Red Hat OpenStack Platform, Red Hat Virtualization and OpenShift Virtualization](https://access.redhat.com/articles/973163)
+
 ## Red Hat OpenShift Edge
 - [Meet single node OpenShift: Our newest small OpenShift footprint for edge architectures](https://www.redhat.com/en/blog/meet-single-node-openshift-our-smallest-openshift-footprint-edge-architectures)
 - [Delivering a Three-node Architecture for Edge Deployments](https://cloud.redhat.com/blog/delivering-a-three-node-architecture-for-edge-deployments)
