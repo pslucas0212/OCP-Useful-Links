@@ -25,6 +25,7 @@
 
 ### OCP Installation 
 - [How to uninstall Red Hat Ansible Controller](https://access.redhat.com/solutions/6733721)
+- [How to use the OpenShift Assisted Installer](https://cloud.redhat.com/blog/how-to-use-the-openshift-assisted-installer)
 
 
 ### Red Hat AI/ML
