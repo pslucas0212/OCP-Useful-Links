@@ -5,6 +5,8 @@
 ### Red Hat OpenShift Lifecycle, Sizing and Subscription
 - [OpenShift sizing and subscription guide for enterprise Kubernetes](https://www.redhat.com/en/resources/openshift-subscription-sizing-guide)
 - [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
+- [What version of the Kubernetes API is included with each OpenShift 4.x release?](https://access.redhat.com/solutions/4870701)
+- [Kubernetes Release History](https://kubernetes.io/releases/#release-history) - Note: this is not a Red Hat site and is provided for ease of comparing of Kubernetes release and support cycle with OpenShift's release and support cycle.
 
 ### OCP Support
 - [OpenShift Container Platform 4.x Tested Integrations (for x86_x64)](https://access.redhat.com/articles/4763741)
