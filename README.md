@@ -32,6 +32,7 @@
 - [Introducing Red Hat OpenShift Data Science](https://www.redhat.com/en/blog/introducing-red-hat-openshift-data-science) - Published April 27, 2021
 - [Visual Guide to Single Node OpenShift Deploy](https://cloud.redhat.com/blog/visual-guide-to-single-node-openshift-deploy)
 - [4 reasons you'll love using Red Hat OpenShift Data Science](https://developers.redhat.com/blog/2021/04/27/4-reasons-youll-love-using-red-hat-openshift-data-science) - Published April 27, 2021
+- [Red Hat OpenShift Data Science - Getting Started](https://developers.redhat.com/products/red-hat-openshift-data-science/getting-started)
 
 ### OpenShift Virtualization (VM support)
 - [Virtualization with Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization)
