@@ -27,6 +27,11 @@
 ### OCP Installation 
 - [How to use the OpenShift Assisted Installer](https://cloud.redhat.com/blog/how-to-use-the-openshift-assisted-installer)
 
+### .NET Core and OCP
+- [Strategies for Moving .NET Workloads to OpenShift Container Platform](https://cloud.redhat.com/blog/strategies-for-moving-.net-workloads-to-openshift-container-platform)
+- [Migrating .NET Core Applications to Red Hat OpenShift Container Platform](https://www.youtube.com/watch?v=al70A8hqtWc) - YouTube Video by Red Hat business partner the Store Groud published May 2020
+- [Chapter 2. Using .NET Core 3.1 on Red Hat OpenShift Container Platform](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/developing_.net_applications_in_rhel_8/using-net-core-on-ocp_gsg)
+
 
 ### Red Hat AI/ML
 - [Introducing Red Hat OpenShift Data Science](https://www.redhat.com/en/blog/introducing-red-hat-openshift-data-science) - Published April 27, 2021
