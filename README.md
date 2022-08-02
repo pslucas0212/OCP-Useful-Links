@@ -27,6 +27,9 @@
 ### OCP Installation 
 - [How to use the OpenShift Assisted Installer](https://cloud.redhat.com/blog/how-to-use-the-openshift-assisted-installer)
 
+### OCP Infrastructure
+- [Disaster Recovery Strategies for Applications Running on OpenShift](https://cloud.redhat.com/blog/disaster-recovery-strategies-for-applications-running-on-openshift)
+
 ### .NET Core and OCP
 - [Strategies for Moving .NET Workloads to OpenShift Container Platform](https://cloud.redhat.com/blog/strategies-for-moving-.net-workloads-to-openshift-container-platform)
 - [Migrating .NET Core Applications to Red Hat OpenShift Container Platform](https://www.youtube.com/watch?v=al70A8hqtWc) - YouTube Video by Red Hat business partner the Store Groud published May 2020
@@ -50,3 +53,8 @@
 - [Visual Guide to Single Node OpenShift Deploy](https://cloud.redhat.com/blog/visual-guide-to-single-node-openshift-deploy)
 - [Demo: How to try out single-node OpenShift from Red Hat](https://www.youtube.com/watch?v=QFf0yVAHQKc) - YouTube video - August 2021
 - [How MicroShift and Kubernetes help manage edge devices at scale](https://www.redhat.com/architect/ai-edge-microshift) - **NOTE: This currently a research project as of 15 March 2022**
+
+### Deployment on Dell EMC PowerFlex Family
+**** Note: Not an endorsement of Dell.  Strictly for reference. 
+- [Red Hat OpenShift 4.6 with CSI PowerFlex 1.3.0 Deployment on Dell EMC PowerFlex Family](https://infohub.delltechnologies.com/section-assets/redhatopenshift4-6-000076)
+- [Red Hat OpenShift Container Platform 4.6 on Dell Infrastructure](https://www.redhat.com/cms/managed-files/Dell%20RH%20OpenShift%204.6_Design%20Guide.pdf)
