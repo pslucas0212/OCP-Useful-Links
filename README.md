@@ -29,6 +29,7 @@
 
 ### OCP Infrastructure
 - [Disaster Recovery Strategies for Applications Running on OpenShift](https://cloud.redhat.com/blog/disaster-recovery-strategies-for-applications-running-on-openshift)
+- [Use of VMware VMotion with OpenShift VMs](https://access.redhat.com/solutions/4975241)
 
 ### .NET Core and OCP
 - [Strategies for Moving .NET Workloads to OpenShift Container Platform](https://cloud.redhat.com/blog/strategies-for-moving-.net-workloads-to-openshift-container-platform)
