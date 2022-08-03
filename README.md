@@ -3,6 +3,8 @@
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
 ### Red Hat OpenShift Lifecycle, Sizing and Subscription
+- [What's new in Red Hat OpenShift](https://www.redhat.com/en/whats-new-red-hat-openshift) - Update prior to each new release of OCP.  OCP 1 year roadmap slide available in the presentation.
+- [OCP Release Status](https://openshift-release.apps.ci.l2s4.p1.openshiftapps.com)
 - [OpenShift sizing and subscription guide for enterprise Kubernetes](https://www.redhat.com/en/resources/openshift-subscription-sizing-guide)
 - [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
 - [What version of the Kubernetes API is included with each OpenShift 4.x release?](https://access.redhat.com/solutions/4870701)
