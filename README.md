@@ -10,6 +10,7 @@
 - [What version of the Kubernetes API is included with each OpenShift 4.x release?](https://access.redhat.com/solutions/4870701)
 - [Kubernetes Release History](https://kubernetes.io/releases/#release-history) - Note: this is not a Red Hat site and is provided for ease of comparing of Kubernetes release and support cycle with OpenShift's release and support cycle.
 - [Kubernetes and OpenShift Lifecycle](https://github.com/pslucas0212/K8-and-OpenShift-Lifecycle/) - Note: I've created a table for the comparison of OCP and K8 release lifecycle for information and planning purposes.
+- [Containers, Kubernetes and Red Hat OpenShift Technical Overview](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview) - No charge introductory training.
 
 ### OCP Support
 - [OpenShift Container Platform 4.x Tested Integrations (for x86_x64)](https://access.redhat.com/articles/4763741)
