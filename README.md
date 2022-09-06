@@ -29,6 +29,7 @@
 
 ### OCP Installation 
 - [How to use the OpenShift Assisted Installer](https://cloud.redhat.com/blog/how-to-use-the-openshift-assisted-installer)
+- [Deploy and run OpenShift on AWS: 4 options](https://www.redhat.com/sysadmin/run-openshift-aws)
 
 ### OCP Infrastructure
 - [Disaster Recovery Strategies for Applications Running on OpenShift](https://cloud.redhat.com/blog/disaster-recovery-strategies-for-applications-running-on-openshift)
