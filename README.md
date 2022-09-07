@@ -30,10 +30,14 @@
 ### OCP Installation 
 - [How to use the OpenShift Assisted Installer](https://cloud.redhat.com/blog/how-to-use-the-openshift-assisted-installer)
 - [Deploy and run OpenShift on AWS: 4 options](https://www.redhat.com/sysadmin/run-openshift-aws)
+- -[Introducing Mirror Registry for Red Hat OpenShift](https://cloud.redhat.com/blog/introducing-mirror-registry-for-red-hat-openshift)
 
 ### OCP Infrastructure
 - [Disaster Recovery Strategies for Applications Running on OpenShift](https://cloud.redhat.com/blog/disaster-recovery-strategies-for-applications-running-on-openshift)
 - [Use of VMware VMotion with OpenShift VMs](https://access.redhat.com/solutions/4975241)
+
+### OCP Management
+- [How oc-mirror will help you reduce container management complexity](https://cloud.redhat.com/blog/how-oc-mirror-will-help-you-reduce-container-management-complexity)
 
 ### .NET Core and OCP
 - [Strategies for Moving .NET Workloads to OpenShift Container Platform](https://cloud.redhat.com/blog/strategies-for-moving-.net-workloads-to-openshift-container-platform)
