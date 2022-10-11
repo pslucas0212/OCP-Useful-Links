@@ -57,6 +57,9 @@
 - [OpenShift Virtualization - 4.10](https://docs.openshift.com/container-platform/4.10/virt/about-virt.html)
 - [Certified Guest Operating Systems in Red Hat OpenStack Platform, Red Hat Virtualization and OpenShift Virtualization](https://access.redhat.com/articles/973163)
 
+### Docker
+- [Simplified Deployment of Local Container Images to OpenShift](https://www.docker.com/blog/deployment-of-local-container-images-to-openshift/) - from docker.com
+
 ## Red Hat OpenShift Edge
 - [Meet single node OpenShift: Our newest small OpenShift footprint for edge architectures](https://www.redhat.com/en/blog/meet-single-node-openshift-our-smallest-openshift-footprint-edge-architectures)
 - [Delivering a Three-node Architecture for Edge Deployments](https://cloud.redhat.com/blog/delivering-a-three-node-architecture-for-edge-deployments)
