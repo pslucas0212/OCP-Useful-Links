@@ -74,6 +74,7 @@
 - [OpenShift Container Platform on Dell EMC VxFlex Ready: storage pools and volumes configuration before installation of OCP and after-configuration.](https://access.redhat.com/solutions/5897021)
 
 
-### IBM Cloud Pak Sizing
+### IBM Cloud Paks Related Informaton
 - [Sizing](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=planning-sizing)
 - [IBM Cloud Pak for Integration 2022.2 System Requirements](https://www.ibm.com/docs/en/cloud-paks/cp-integration/2022.2?topic=planning-system-requirements)
+- [Accessing Red Hat entitlements from your IBM Cloud Paks](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=iocpc-accessing-red-hat-entitlements-from-your-cloud-paks)
