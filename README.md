@@ -77,4 +77,5 @@
 ### IBM Cloud Paks Related Informaton
 - [Sizing](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=planning-sizing)
 - [IBM Cloud Pak for Integration 2022.2 System Requirements](https://www.ibm.com/docs/en/cloud-paks/cp-integration/2022.2?topic=planning-system-requirements)
+- [IBM Cloud Pak for Data 4.5.x System Requirements](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=planning-system-requirements)
 - [Accessing Red Hat entitlements from your IBM Cloud Paks](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=iocpc-accessing-red-hat-entitlements-from-your-cloud-paks)
