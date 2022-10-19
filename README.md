@@ -72,3 +72,8 @@
 - [Red Hat OpenShift 4.6 with CSI PowerFlex 1.3.0 Deployment on Dell EMC PowerFlex Family](https://infohub.delltechnologies.com/section-assets/redhatopenshift4-6-000076)
 - [Red Hat OpenShift Container Platform 4.6 on Dell Infrastructure](https://www.redhat.com/cms/managed-files/Dell%20RH%20OpenShift%204.6_Design%20Guide.pdf)
 - [OpenShift Container Platform on Dell EMC VxFlex Ready: storage pools and volumes configuration before installation of OCP and after-configuration.](https://access.redhat.com/solutions/5897021)
+
+
+### IBM Cloud Pak Sizing
+- [Sizing](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=planning-sizing)
+- [IBM Cloud Pak for Integration 2022.2 System Requirements](https://www.ibm.com/docs/en/cloud-paks/cp-integration/2022.2?topic=planning-system-requirements)
