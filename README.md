@@ -18,6 +18,7 @@
 - [What version of the Kubernetes API is included with each OpenShift 4.x release?](https://access.redhat.com/solutions/4870701)
 - [Is there a list of Certified Hardware for Red Hat Enterprise Linux CoreOS?](https://access.redhat.com/solutions/4499911)
 - [OpenShift Container Platform 4.x Tested Integrations](https://access.redhat.com/articles/4128421) - Covers all supported platforms
+- [The Ultimate Guide to OpenShift Release and Upgrade Process for Cluster Administrators](https://cloud.redhat.com/blog/the-ultimate-guide-to-openshift-release-and-upgrade-process-for-cluster-administrators)
 
 ### OCP Troubleshooting 
 - [OpenShift Troubleshooting Resources](https://connect.redhat.com/en/blog/openshift-troubleshooting-resources)
