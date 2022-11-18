@@ -33,6 +33,7 @@
 - [How to use the OpenShift Assisted Installer](https://cloud.redhat.com/blog/how-to-use-the-openshift-assisted-installer)
 - [Deploy and run OpenShift on AWS: 4 options](https://www.redhat.com/sysadmin/run-openshift-aws)
 - [Introducing Mirror Registry for Red Hat OpenShift](https://cloud.redhat.com/blog/introducing-mirror-registry-for-red-hat-openshift)
+- [OCP4 Helper Node](https://github.com/redhat-cop/ocp4-helpernode) - This playbook helps set up an "all-in-one" node, that has all the infrastructure/services in order to install OpenShift 4. 
 
 ### OCP Infrastructure
 - [Disaster Recovery Strategies for Applications Running on OpenShift](https://cloud.redhat.com/blog/disaster-recovery-strategies-for-applications-running-on-openshift)
