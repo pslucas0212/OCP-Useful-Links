@@ -13,6 +13,9 @@
 - [Containers, Kubernetes and Red Hat OpenShift Technical Overview](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview) - No charge introductory training.
 - [OpenShift Container Platform 4.x Tested Integrations (for x86_x64)](https://access.redhat.com/articles/4763741)
 
+### What's New in OCP
+- [What's New in OCP 4.12 - January 2023](https://www.youtube.com/watch?v=IUpjgasPW5Y) - Presentation via YouTube
+
 ### OCP Support
 - [OpenShift Container Platform 4.x Tested Integrations (for x86_x64)](https://access.redhat.com/articles/4763741)
 - [What version of the Kubernetes API is included with each OpenShift 4.x release?](https://access.redhat.com/solutions/4870701)
