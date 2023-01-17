@@ -17,6 +17,10 @@
 - [What's New in OCP 4.12 - January 2023](https://www.youtube.com/watch?v=IUpjgasPW5Y) - Presentation via YouTube
 - [What's New in OCP 4.11 - July 2022](https://www.youtube.com/watch?v=6QJhJTPY2mI) - Presentation via YouTube
 - [What's New in OCP 4.10 - February 2022](https://www.youtube.com/watch?v=1lhARQKdmNw) - Presentation via YouTube
+- [What's New in OCP 4.9 - October 2021](https://www.youtube.com/watch?v=Q1j_mt_XLqE) - Presentation via YouTube
+- [What's New in OCP 4.8 - June 2021](https://www.youtube.com/watch?v=fhL36ql_sqQ) - Presentation via YouTube
+- [What's New in OCP 4.7 - January 2021](https://www.youtube.com/watch?v=74q5nO-VCRc) - Presentation via YouTube
+
 
 ### OCP Support
 - [OpenShift Container Platform 4.x Tested Integrations (for x86_x64)](https://access.redhat.com/articles/4763741)
