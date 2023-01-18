@@ -51,6 +51,9 @@
 ### OCP Management
 - [How oc-mirror will help you reduce container management complexity](https://cloud.redhat.com/blog/how-oc-mirror-will-help-you-reduce-container-management-complexity)
 
+### Migrating to OCP
+- [How to Migrate a Cloud Foundry Application to a Red Hat OpenShift Cluster on IBM Cloud](https://www.ibm.com/cloud/blog/migrate-a-cloud-foundry-application-to-a-red-hat-openshift-cluster-on-ibm-cloud) - From ibm.com
+
 ### .NET Core and OCP
 - [Strategies for Moving .NET Workloads to OpenShift Container Platform](https://cloud.redhat.com/blog/strategies-for-moving-.net-workloads-to-openshift-container-platform)
 - [Migrating .NET Core Applications to Red Hat OpenShift Container Platform](https://www.youtube.com/watch?v=al70A8hqtWc) - YouTube Video by Red Hat business partner the Store Groud published May 2020
