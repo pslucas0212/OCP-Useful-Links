@@ -72,7 +72,7 @@
 - [OpenShift Virtualization - 4.10](https://docs.openshift.com/container-platform/4.10/virt/about-virt.html)
 - [Certified Guest Operating Systems in Red Hat OpenStack Platform, Red Hat Virtualization and OpenShift Virtualization](https://access.redhat.com/articles/973163)
 - [OpenShift Virtualization: Why Bring Your Virtual Machines to Kubernetes?](https://cloud.redhat.com/blog/openshift-virtualization-why-bring-your-virtual-machines-to-kubernetes)
-- KubeVirt Links
+## KubeVirt Information
 - [Getting Started with KubeVirt Containers and Virtual Machines Together](https://cloud.redhat.com/blog/getting-started-with-kubevirt)
 
 ### Docker
