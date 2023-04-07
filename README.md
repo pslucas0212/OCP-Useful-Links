@@ -45,6 +45,9 @@
 - [Introducing Mirror Registry for Red Hat OpenShift](https://cloud.redhat.com/blog/introducing-mirror-registry-for-red-hat-openshift)
 - [OCP4 Helper Node](https://github.com/redhat-cop/ocp4-helpernode) - This playbook helps set up an "all-in-one" node, that has all the infrastructure/services in order to install OpenShift 4. 
 
+### OCP Upgrade
+- [Preparing to upgrade to OpenShift Container Platform 4.13](https://access.redhat.com/articles/6958394)
+
 ### OCP Infrastructure
 - [Disaster Recovery Strategies for Applications Running on OpenShift](https://cloud.redhat.com/blog/disaster-recovery-strategies-for-applications-running-on-openshift)
 - [Use of VMware VMotion with OpenShift VMs](https://access.redhat.com/solutions/4975241)
