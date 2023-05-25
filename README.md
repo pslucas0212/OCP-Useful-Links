@@ -100,5 +100,6 @@
 
 ### IBM Cloud Paks Related Informaton
 - [IBM Cloud Paks](https://www.ibm.com/docs/en/cloud-paks) - Top level link.  Review specific Cloud Pak for latest version and OCP supported versions.  
+- [IBM Cloud Pak and Red Hat OpenShift version compatibility objective](https://www.ibm.com/support/pages/node/6457303)
 - [Sizing](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=planning-sizing)
 - [Accessing Red Hat entitlements from your IBM Cloud Paks](https://www.ibm.com/docs/en/cloud-paks/1.0?topic=iocpc-accessing-red-hat-entitlements-from-your-cloud-paks)
