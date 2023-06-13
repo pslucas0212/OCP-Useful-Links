@@ -47,6 +47,9 @@
 - [OCP4 Helper Node](https://github.com/redhat-cop/ocp4-helpernode) - This playbook helps set up an "all-in-one" node, that has all the infrastructure/services in order to install OpenShift 4. 
 - [Infrastructure Nodes in OpenShift 4](https://access.redhat.com/solutions/5034771)
 
+### OCP Security
+- [Guide to OpenShift authentication and authorization](https://cloud.redhat.com/blog/guide-to-openshift-authentication-and-authorization)
+
 ### OCP Upgrade
 - [Preparing to upgrade to OpenShift Container Platform 4.13](https://access.redhat.com/articles/6958394)
 
