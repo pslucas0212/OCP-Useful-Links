@@ -16,6 +16,7 @@
 ### What's New in OCP
 - [OpenShift Release Status](https://openshift-release.apps.ci.l2s4.p1.openshiftapps.com/)
 - [What's New in OpenShift 4.13 - May 2023](https://www.youtube.com/watch?v=KxvW_lVhsNo)  - Presentation via YouTube
+- [What's new in Red Hat OpenShift 4.13](https://developers.redhat.com/articles/2023/06/26/whats-new-red-hat-openshift-413?sc_cid=7013a000003SfYJAA0) - From Red Hat Developer
 - [What's New in OCP 4.12 - January 2023](https://www.youtube.com/watch?v=IUpjgasPW5Y) - Presentation via YouTube
 - [What's New in OCP 4.11 - July 2022](https://www.youtube.com/watch?v=6QJhJTPY2mI) - Presentation via YouTube
 - [What's New in OCP 4.10 - February 2022](https://www.youtube.com/watch?v=1lhARQKdmNw) - Presentation via YouTube
