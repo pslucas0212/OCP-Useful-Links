@@ -66,6 +66,9 @@
 ### Migrating to OCP
 - [How to Migrate a Cloud Foundry Application to a Red Hat OpenShift Cluster on IBM Cloud](https://www.ibm.com/cloud/blog/migrate-a-cloud-foundry-application-to-a-red-hat-openshift-cluster-on-ibm-cloud) - From ibm.com
 
+### OCP Pipelines
+- [Using OpenShift Pipelines](https://developers.redhat.com/developer-sandbox/activities/using-openshift-pipelines?sc_cid=7013a000003ShAUAA0)
+  
 ### .NET Core and OCP
 - [Strategies for Moving .NET Workloads to OpenShift Container Platform](https://cloud.redhat.com/blog/strategies-for-moving-.net-workloads-to-openshift-container-platform)
 - [Migrating .NET Core Applications to Red Hat OpenShift Container Platform](https://www.youtube.com/watch?v=al70A8hqtWc) - YouTube Video by Red Hat business partner the Store Groud published May 2020
