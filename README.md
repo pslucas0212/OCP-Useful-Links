@@ -52,6 +52,7 @@
 - [Guide to OpenShift authentication and authorization](https://cloud.redhat.com/blog/guide-to-openshift-authentication-and-authorization)
 - [Hardening Guide for OpenShift Container Platform](https://access.redhat.com/solutions/6942861)
 - [Your Guide to security hardening OpenShift using the compliance operator](https://cloud.redhat.com/blog/your-guide-to-security-hardening-openshift-using-the-compliance-operator)
+- [CIS Benchmark for OCP 4](https://access.redhat.com/solutions/5518621)
 
 ### OCP Upgrade
 - [Preparing to upgrade to OpenShift Container Platform 4.13](https://access.redhat.com/articles/6958394)
