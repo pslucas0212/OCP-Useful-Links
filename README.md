@@ -78,6 +78,9 @@
 - [Migrating .NET Core Applications to Red Hat OpenShift Container Platform](https://www.youtube.com/watch?v=al70A8hqtWc) - YouTube Video by Red Hat business partner the Store Groud published May 2020
 - [Chapter 2. Using .NET Core 3.1 on Red Hat OpenShift Container Platform](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/developing_.net_applications_in_rhel_8/using-net-core-on-ocp_gsg)
 
+### Python
+- [A beginner's guide to Python containers](https://developers.redhat.com/articles/2023/09/05/beginners-guide-python-containers?sc_cid=7013a000003SrhiAAC)
+
 ### Operations 
 - [Deploy a Kubernetes rolling update](https://developers.redhat.com/developer-sandbox/activities/deploy-kubernetes-rolling-update?sc_cid=7013a000003SfYJAA0)
 ### Red Hat AI/ML
