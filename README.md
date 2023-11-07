@@ -91,6 +91,7 @@
 - [Red Hat OpenShift Data Science - Getting Started](https://developers.redhat.com/products/red-hat-openshift-data-science/getting-started)
 
 ### OpenShift Virtualization (VM support)
+- [Configuring OpenShift Virtualization to run on Red Hat OpenShift Service on AWS](https://www.youtube.com/watch?v=wBtY3tvjtIU) - Short YouTube vide demo
 - [Virtualization with Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization)
 - [OpenShift Virtualization - 4.10](https://docs.openshift.com/container-platform/4.10/virt/about-virt.html)
 - [Certified Guest Operating Systems in Red Hat OpenStack Platform, Red Hat Virtualization and OpenShift Virtualization](https://access.redhat.com/articles/973163)
