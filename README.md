@@ -117,7 +117,12 @@
 - [Red Hat OpenShift Container Platform 4.6 on Dell Infrastructure](https://www.redhat.com/cms/managed-files/Dell%20RH%20OpenShift%204.6_Design%20Guide.pdf)
 - [OpenShift Container Platform on Dell EMC VxFlex Ready: storage pools and volumes configuration before installation of OCP and after-configuration.](https://access.redhat.com/solutions/5897021)
 
+## IBM Software
 
+### IBM Maximo
+- [IBM Maximo Application Suite (MAS) and Red Hat OpenShift](https://www.redhat.com/en/blog/ibm-maximo-application-suite-mas-and-red-hat-openshift)
+- [Migrate and modernize IBM Maximo with AWS and Red Hat](https://www.redhat.com/en/blog/migrate-and-modernize-ibm-maximo-with-aws-and-red-hat)
+  
 ### IBM Cloud Paks Related Informaton
 - [IBM Cloud Paks](https://www.ibm.com/docs/en/cloud-paks) - Top level link.  Review specific Cloud Pak for latest version and OCP supported versions.  
 - [IBM Cloud Pak and Red Hat OpenShift version compatibility objective](https://www.ibm.com/support/pages/node/6457303)
