@@ -67,6 +67,8 @@
 
 ### OCP Management
 - [How oc-mirror will help you reduce container management complexity](https://cloud.redhat.com/blog/how-oc-mirror-will-help-you-reduce-container-management-complexity)
+- [How to increase Resources for Worker and Master Nodes in RHOCP 4 for VMware](https://access.redhat.com/solutions/3048681)
+- [Is it supported to modify the control plane node size in a running OpenShift Container Platform 4.x cluster?](https://access.redhat.com/solutions/5597381)
 
 ### Migrating to OCP
 - [How to Migrate a Cloud Foundry Application to a Red Hat OpenShift Cluster on IBM Cloud](https://www.ibm.com/cloud/blog/migrate-a-cloud-foundry-application-to-a-red-hat-openshift-cluster-on-ibm-cloud) - From ibm.com
