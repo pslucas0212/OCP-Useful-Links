@@ -2,6 +2,8 @@
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
+FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)
+
 ### Red Hat OpenShift Lifecycle, Sizing and Subscription
 - [What's new in Red Hat OpenShift](https://www.redhat.com/en/whats-new-red-hat-openshift) - This OCP update presentation is given by the OCP product management prior to each new release of OCP.  OCP 1 year roadmap slide available in the presentation.
 - [OCP Release Status](https://openshift-release.apps.ci.l2s4.p1.openshiftapps.com)
