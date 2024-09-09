@@ -77,6 +77,9 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 
 ## Developing on OCP  
 - [A developer’s path to success with OpenShift and containers](https://developers.redhat.com/articles/2023/07/13/developers-path-success-openshift-and-containers?sc_cid=7013a000003SiV9AAK#)
+
+### Application Modernization
+- [Application modernization explained](https://cloud.redhat.com/learn/application-modernization-explained#page-title)
   
 ### OCP Pipelines
 - [Using OpenShift Pipelines](https://developers.redhat.com/developer-sandbox/activities/using-openshift-pipelines?sc_cid=7013a000003ShAUAA0)
