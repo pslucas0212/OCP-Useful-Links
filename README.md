@@ -73,6 +73,7 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 - [Use of VMware VMotion with OpenShift VMs](https://access.redhat.com/solutions/4975241)
 
 ### OCP Management
+- [Getting to Know the Red Hat Hybrid Cloud Console for your OpenShift Environments](https://www.redhat.com/en/blog/getting-to-know-the-red-hat-hybrid-cloud-console-for-your-openshift-environments)
 - [How oc-mirror will help you reduce container management complexity](https://cloud.redhat.com/blog/how-oc-mirror-will-help-you-reduce-container-management-complexity)
 - [How to increase Resources for Worker and Master Nodes in RHOCP 4 for VMware](https://access.redhat.com/solutions/3048681)
 - [Is it supported to modify the control plane node size in a running OpenShift Container Platform 4.x cluster?](https://access.redhat.com/solutions/5597381)
