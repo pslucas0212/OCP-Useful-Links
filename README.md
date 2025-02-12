@@ -65,6 +65,7 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 - [Hardening Guide for OpenShift Container Platform](https://access.redhat.com/solutions/6942861)
 - [Your Guide to security hardening OpenShift using the compliance operator](https://cloud.redhat.com/blog/your-guide-to-security-hardening-openshift-using-the-compliance-operator)
 - [CIS Benchmark for OCP 4](https://access.redhat.com/solutions/5518621)
+- [Multiple ways of Authentication on OpenShift Container Platform (OCP), Part 2](https://www.redhat.com/en/blog/multiple-ways-of-authentication-on-openshift-container-platform-ocp-part-2)
 
 ### OCP Upgrade
 - [Preparing to upgrade to OpenShift Container Platform 4.13](https://access.redhat.com/articles/6958394)
