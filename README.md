@@ -4,6 +4,7 @@
 
 FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)
 
+- [OpenShift Container Platform 4.18 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.18/pdf/architecture/OpenShift_Container_Platform-4.17-Architecture-en-US.pdf)
 - [OpenShift Container Platform 4.17 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.17/pdf/architecture/OpenShift_Container_Platform-4.17-Architecture-en-US.pdf)
 - [OpenShift Container Platform 4.16 Architecture](https://docs.redhat.com/en/documentation/openshift_container_platform/4.16/pdf/architecture/OpenShift_Container_Platform-4.16-Architecture-en-US.pdf)
 
