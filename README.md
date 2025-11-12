@@ -12,6 +12,7 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 
 ### Red Hat OpenShift Lifecycle, Sizing and Subscription
 - [What's new in Red Hat OpenShift](https://www.redhat.com/en/whats-new-red-hat-openshift) - This OCP update presentation is given by the OCP product management prior to each new release of OCP.  OCP 1 year roadmap slide available in the presentation.
+- [What’s new for developers in Red Hat OpenShift 4.20](https://developers.redhat.com/articles/2025/11/11/whats-new-developers-red-hat-openshift-4-20?extIdCarryOver=true&sc_cid=RHCTN1250000461397&_gl=1*1uy4s43*_gcl_au*MTM3MDkyODMyNy4xNzYwNzMyNzYx)
 - [Red Hat OpenShift 4.19 accelerates virtualization and enterprise AI innovation](https://www.redhat.com/en/blog/red-hat-openshift-419-accelerates-virtualization-and-enterprise-ai-innovation)
 - [OCP Release Status](https://openshift-release.apps.ci.l2s4.p1.openshiftapps.com)
 - [OpenShift sizing and subscription guide for enterprise Kubernetes](https://www.redhat.com/en/resources/openshift-subscription-sizing-guide)
