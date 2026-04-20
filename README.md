@@ -26,6 +26,7 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 
 ### What's New in OCP
 - [OpenShift Release Status](https://openshift-release.apps.ci.l2s4.p1.openshiftapps.com/)
+- [What's New in OpenShift 4.21 - Key Updates and New Features](https://www.youtube.com/watch?v=Z1LIIxbcrms)
 - [Achieve more with Red Hat OpenShift 4.21](https://www.redhat.com/en/blog/achieve-more-red-hat-openshift-421)
 - [What's New in OpenShift 4.18 - Key Updates and New Features](https://www.youtube.com/watch?v=yqBaxC7bmcc) - Presentation via Youtube
 - [Red Hat unveils OpenShift 4.18: Enhanced security and virtualization experience](https://www.redhat.com/en/blog/what-you-need-to-know-red-hat-openshift-418)
